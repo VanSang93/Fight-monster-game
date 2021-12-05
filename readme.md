@@ -1,0 +1,1 @@
+g++ main.cpp -o main Creature.h Monster.h Player.h GetRandomNumber.h
